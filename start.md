@@ -7,14 +7,14 @@
 
 Klappe hinten öffnen und Stecker in die Steckdose stecken
 
-![Rückansicht Rollcontainer](file:///rollcontainer.jpg)
+![Rückansicht Rollcontainer](images/rollcontainer.jpg)
 
 ### Box anschließen
 
 Graues Kabel mit blauem Stecker auf der Hinterseite der Box
 	in den **INPUT** Steckplatz stecken
 
-![Rückansicht Box](file://box_rear_01.jpg)
+![Rückansicht Box](images/box_rear_01.jpg)
 
 ## Einschalten
 
@@ -39,7 +39,7 @@ Glückwunsch, die Anlage ist nun betriebsbereit.
 Es gibt bei der Anlage zwei Quellen für Musik. Beide können jeweils von CD, USB-Stick oder SD-Karte Musik abspielen. Die
 Umschaltung erfolgt auf der Oberseite der Anlage.
 
-![Umschaltung Quelle](file://music_source.jpg)
+![Umschaltung Quelle](images/music_source.jpg)
 
 ### Lautstärke und Sound einstellen
 
@@ -48,7 +48,7 @@ das Mikro gilt. Im folgenden werden alle Einstellmöglichkeiten erklärt.
 
 Die Knöpfe sind wie im Bild dargestellt folgendermaßen belegt.
 
-![Belegung Mischpult](file://mischpult_belegung.jpg)
+![Belegung Mischpult](images/mischpult_belegung.jpg)
 
 Von links nach rechts genannt:
 
