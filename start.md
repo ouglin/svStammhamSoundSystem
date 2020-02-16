@@ -18,17 +18,19 @@ Graues Kabel mit blauem Stecker auf der Hinterseite der Box
 
 ## Einschalten
 
+![Vorderansicht](images/front.jpg)
+
 1. Schauen ob Verstärker eingeschaltet ist. Er ist ganz unten mit der Beschriftung *V3000*. Es sollte die grüne Lampe
 leuchten.
-	a. Lampe leuchtet --> Prima
-	b. Lampe leuchtet nicht --> über Kippschalter (0/1) unter Beschriftung *V3000* einschalten
+	1. Lampe leuchtet --> Prima
+	2. Lampe leuchtet nicht --> über Kippschalter (0/1) unter Beschriftung *V3000* einschalten
 2. 	Überprüfen, ob der CD-Spieler eingeschaltet ist, man erkennt es an den leuchtenden CD-Bedienungsknöpfen
-	a. ja, super
-	b. nein --> *Power* Knopf vorne zwischen den CD-Einschüben betätigen
+	1. ja, super
+	2. nein --> *Power* Knopf vorne zwischen den CD-Einschüben betätigen
 3. Überprüfen, ob der Mischpult eingeschaltet ist, man erkennt es an der blauen Lampe an der Oberseite. Diese befindet 
 sich bei der Draufsicht, rechts oben, direkt unter dem schwarzen (AN/AUS) Knopf 
-	a. ja, sie leuchtet --> jeah
-	b. nein --> schwarzen *Power* Knopf daneben drücken
+	1. ja, sie leuchtet --> jeah
+	2. nein --> schwarzen *Power* Knopf daneben drücken
 	
 Glückwunsch, die Anlage ist nun betriebsbereit.
 
