@@ -73,7 +73,7 @@ etwas anderes suggerieren*
 Darunter befinden sich Kippschalter. Diese sollten auf folgenden Einstellungen belassen werden:
 
 1. Kippschalter mit **Phono x / AUX x** oder **LINE x** x ist die Kanalnummer bleibt bei Kanälen 1 und 2
-immer auf **LINE 2** bzw. **LINE 2**
+immer auf **LINE 1** bzw. **LINE 2**
 2. Kippschalter *TALKOVER* beim Mikrofon sollte auf **OFF** stehen. **ON** bewirkt, dass die Sprache über die 
 Musik gelegt wird. Das klappt nur bei richtigen Lautstärkeeinstellungen. **OFF** bedeutet, dass die Musik für die
 Sprechdauer leise gestellt wird.
